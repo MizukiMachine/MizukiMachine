@@ -10,8 +10,8 @@ Currently working on developing multiplayer game servers, web APIs, and infrastr
 ## 🛠️ Tech Stack
 
 ### Programming Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=go,ts,cpp,rust,cs,nodejs,nestjs,angular" /> <br />
-`Go` `TypeScript` `C++` `Rust` `C#` `Node.js` `NestJS` `Angular`
+<img src="https://skillicons.dev/icons?i=go,ts,cpp,rust,cs,nodejs,nestjs" /> <br />
+`Go` `TypeScript` `C++` `Rust` `C#` `Node.js` `NestJS`
 
 ### Infrastructure & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,gitlab,nginx,linux,jenkins" /> <br />
