@@ -1,4 +1,5 @@
-#  Hi there! I'm MiSeals
+#  Hi there! I'm Chacha
+
 Backend & Game Server Engineer from Japan 🇯🇵, focused on multiplayer game servers and global service infrastructure.
 
 ## Tech Stack
