@@ -1,4 +1,4 @@
-#  Hi there! I'm Chacha
+#  Hi there! I'm miz-cha
 
 Backend & Game Server Engineer from Japan 🇯🇵, focused on multiplayer game servers and global service infrastructure.
 
