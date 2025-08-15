@@ -4,7 +4,7 @@ Backend & Game Server Engineer from Japan 🇯🇵, focused on multiplayer game 
 
 ## Tech Stack
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=go,ts,cpp,rust,cs,nodejs,nestjs" /> <br />
+<img src="https://skillicons.dev/icons?i=go,ts,cpp,rust,python,cs,nodejs,nextjs" /> <br />
 
 ### Infrastructure & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,aws" /> <br />
