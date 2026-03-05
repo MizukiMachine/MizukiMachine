@@ -3,6 +3,8 @@
 Backend & Game Server Engineer from Japan 🇯🇵<br>
 Building multiplayer game servers, real-time communication systems, and AI-powered applications.
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&lines=I'm+really+into+LLMs+right+now!!!" alt="Typing SVG" />
+
 ## Core Expertise
 
 - **Voice AI & Real-time Communication** — LiveKit, VAPI, RAG, STT/TTS, LLM Integration
@@ -14,8 +16,6 @@ Building multiplayer game servers, real-time communication systems, and AI-power
 ### AI & Development Tools
 
 <img src="https://img.shields.io/badge/Claude_Code-ff7f50?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/VAPI-000000?style=flat-square&logo=vapi&logoColor=white" /> <img src="https://img.shields.io/badge/LiveKit-040404?style=flat-square&logo=livekit&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=chroma&logoColor=white" /> <img src="https://img.shields.io/badge/OpenClaw-2C3E50?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Agent_Skills-6366F1?style=flat-square&logo=agents&logoColor=white" />
-
-
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
@@ -31,4 +31,3 @@ Building multiplayer game servers, real-time communication systems, and AI-power
 ### Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,kubernetes" /><br>
 <img src="https://img.shields.io/badge/Agones-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
